@@ -1,5 +1,3 @@
-so... im not good in code, but hey! im trying!
+yay, computer logic! i hope i will get work at mcdonalds after university...
 
-
-
-error line 1: can't read prunt("Hello, World!")
+error formatting text: just quit university
