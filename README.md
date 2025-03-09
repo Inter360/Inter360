@@ -1,3 +1,1 @@
 yay, computer logic! i hope i will get work at mcdonalds after university...
-
-error formatting text: just quit university
